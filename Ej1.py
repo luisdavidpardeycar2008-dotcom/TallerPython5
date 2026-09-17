@@ -1,4 +1,4 @@
-1. # VALIDACIÓN Y ENTRADA DE DATOS
+ # VALIDACIÓN Y ENTRADA DE DATOS
 # Usamos un ciclo while para asegurar que los tres lados sean números positivos.
 datos_validos = False
 
@@ -27,4 +27,4 @@ if es_triangulo:
     else:
        print("Tipo de Triangulo: Escaleno(3 LADOS DIFERENTES)")
 else: 
-   print("\nNO Forman un triangulo ya que la suma de sus dos lados no supera al lado restante")
+   print("NO Forman un triangulo ya que la suma de sus dos lados no supera al lado restante")
